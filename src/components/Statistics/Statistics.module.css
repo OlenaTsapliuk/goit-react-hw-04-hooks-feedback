@@ -1,0 +1,13 @@
+.statisticsName {
+  font-size: 18px;
+  font-weight: bold;
+  text-align: center;
+  text-shadow: 4px 4px 12px rgba(126, 142, 175, 0.85);
+}
+.wrapper {
+  display: flex;
+  margin-right: auto;
+  margin-left: auto;
+  width: 600px;
+  justify-content: space-around;
+}
